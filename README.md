@@ -1,6 +1,8 @@
-# 🕸️ Dynamic Knowledge Graph for Legal Expert Reports
+# 🕸️ JuriSpark - Dynamic Knowledge Graph for Legal Expert Reports
 
 A comprehensive **systematic dynamic knowledge graph system** built in Python to analyze legal expert reports, extract entities, relationships, and arguments, and provide interactive exploration capabilities.
+
+**The solution is built upon three core pillars: a knowledge graph-based analysis engine, a generative AI-powered strategy assistant, and a sophisticated debate simulation platform.**
 
 ## 🎯 Challenge Overview
 
@@ -280,4 +282,4 @@ This project is developed for the Simmons and Simmons Challenge as a demonstrati
 
 The system will systematically process all PDFs, extract comprehensive knowledge, and provide you with a powerful tool for legal document analysis and exploration.
 
-**Built with ❤️ for the Simmons and Simmons Challenge** 
+**Built with ❤️ for the Simmons and Simmons Challenge**
